@@ -1,6 +1,5 @@
 # Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
-## Currently working !
-## Follow me to stay updated!
+## Currently working so follow me to stay updated !
 
 **Github Stats:**
 
