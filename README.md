@@ -17,4 +17,4 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sasho2k&show_icons=true&theme=dracula" align="left" height="300" width="800">
+<img src="https://github-readme-stats.vercel.app/api?username=sasho2k&show_icons=true&theme=dracula" align="left" height="300" width="1200">
