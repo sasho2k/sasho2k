@@ -18,6 +18,6 @@
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasho2k&show_icons=true&theme=dracula&line_height=33" align="left" height="400" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasho2k&count_private=true&hide=shell&theme=dracula&line_height=20" align="left" height="400" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasho2k&show_icons=true&theme=dracula" align="left" height="600" width="600">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasho2k&count_private=true&hide=shell&theme=dracula" align="left" height="600" width="600">
 </p>
