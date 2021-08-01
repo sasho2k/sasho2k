@@ -1,11 +1,13 @@
 # Hey, I'm Sasho! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="50px">
 
-## Ever-growing List of Side Projects!
-- [UCF GARAGE API 🚗](https://github.com/sasho2k/University-Of-Central-Florida-Garage-API)
-- [WORD OF THE DAY BOT](https://github.com/sasho2k/discord-word-of-the-day)
-- [DISCORD PUBLIX SALE MONITOR 🏪 *COMING SOON*]()
+`“Java is to JavaScript what car is to Carpet.” – Chris Heilmann`
 
-## Few Things I'm Learning
+### Ever-growing List of Side Projects! 🏁
+- [UCF Garage API 🚗](https://github.com/sasho2k/University-Of-Central-Florida-Garage-API)
+- [Discord Word of the Day Bot 🌄](https://github.com/sasho2k/discord-word-of-the-day)
+- [Discord Publix Sale Monitor 🏪]() *Coming Soon!*
+
+### Few Things I'm Learning! 👨‍🎓
 ```
 - Golang concurrency
 - Advanced Python implementation
@@ -15,6 +17,6 @@
 - Charles/WireShark/Fiddler
 ```
 
-## Github Stats
+## My Github Stats! 🎌
 
 <img src="https://github-readme-stats.vercel.app/api?username=sasho2k&show_icons=true&theme=dracula" align="left" height="300" width="1200">
