@@ -1,8 +1,8 @@
 # Hey, I'm Sasho! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="50px">
 
-> - `“Before software can be reusable it first has to be usable.” – Ralph Johnson`
-> - `Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`
-> - `“Java is to JavaScript what car is to carpet.” – Chris Heilmann`
+- `“Before software can be reusable it first has to be usable.” – Ralph Johnson`
+- `Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`
+- `“Java is to JavaScript what car is to carpet.” – Chris Heilmann`
 
 ### Ever-growing List of Side Projects! 🏁
 - [UCF Garage API 🚗](https://github.com/sasho2k/University-Of-Central-Florida-Garage-API)
