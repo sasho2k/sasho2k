@@ -7,7 +7,7 @@
 ### Ever-growing List of Side Projects! 🏁
 - [UCF Garage API 🚗](https://github.com/sasho2k/University-Of-Central-Florida-Garage-API)
 - [Discord Word of the Day Bot 🌄](https://github.com/sasho2k/discord-word-of-the-day)
-- [Publix Sale Monitor 🏪]() *Coming Soon!*
+- [Publix Sale Monitor 🏪](https://github.com/sasho2k/publix-sub-sale-monitor)
 
 ### Few Things I'm Learning! 👨‍🎓
 ```
