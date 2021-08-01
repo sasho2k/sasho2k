@@ -19,5 +19,5 @@
 
 ## My Github Stats! 🎌
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasho2k&show_icons=true&theme=dracula" align="left" height="300" width="600">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasho2k&show_icons=true&theme=dracula" height="300" width="600">
 </p>
