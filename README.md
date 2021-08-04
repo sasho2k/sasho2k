@@ -5,7 +5,7 @@
 ## A Few Quotes
 > `“Before software can be reusable it first has to be usable.” – Ralph Johnson`
 > 
-> `Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`
+> `"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler`
 > 
 > `“Java is to JavaScript what car is to carpet.” – Chris Heilmann`
 
