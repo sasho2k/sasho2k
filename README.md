@@ -1,10 +1,12 @@
-# Hey, I'm Sasho! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="50px">
+# Hey, I'm Sasho! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="50px"/>
 
-<img src="https://thumbs.gfycat.com/LonelyIcyCusimanse-max-1mb.gif"/>
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
 ## A Few Quotes
 > `“Before software can be reusable it first has to be usable.” – Ralph Johnson`
+> 
 > `Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`
+> 
 > `“Java is to JavaScript what car is to carpet.” – Chris Heilmann`
 
 ## Ever-growing List of Side Projects! 🏁
