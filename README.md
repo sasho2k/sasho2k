@@ -10,9 +10,10 @@
 > `“Java is to JavaScript what car is to carpet.” – Chris Heilmann`
 
 ## Ever-growing List of Side Projects! 🏁
-- [UCF Garage API 🚗](https://github.com/sasho2k/University-Of-Central-Florida-Garage-API)
-- [Discord Word of the Day Bot 🌄](https://github.com/sasho2k/discord-word-of-the-day)
-- [Publix Sale Monitor 🏪](https://github.com/sasho2k/publix-sub-sale-monitor)
+- [UCF Garage API 🚗 (Go)](https://github.com/sasho2k/University-Of-Central-Florida-Garage-API)
+- [Discord Word of the Day Bot 🌄 (Python)](https://github.com/sasho2k/discord-word-of-the-day)
+- [Publix Sub Sale API 🏪 (Go)](https://github.com/sasho2k/publix-sub-api)
+- [Publix Sub Sale Monitor Discord ⏰ (Python)]((https://github.com/sasho2k/publix-sub-api-monitor)
 
 ## Few Things I'm Learning! 👨‍🎓
 ```
