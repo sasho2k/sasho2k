@@ -17,6 +17,7 @@
 
 ## Few Things I'm Learning! 👨‍🎓
 ```
+- Docker/K8's
 - Golang concurrency
 - Advanced Python implementation
 - Requests
