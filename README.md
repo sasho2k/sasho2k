@@ -15,6 +15,9 @@
 - [Publix Sub Sale API 🏪 (Go)](https://github.com/sasho2k/publix-sub-api)
 - [Publix Sub Sale Monitor Discord ⏰ (Python)](https://github.com/sasho2k/publix-sub-api-monitor)
 
+## Some Documentation I've Written
+- [Using Docker and Ubuntu to host Golang API's](https://github.com/sasho2k/GOLANG-API-WITH-DOCKERS-AND-UBUNTU-DIGITAL-OCEAN/blob/main/dockerinfo.pdf)
+
 ## Few Things I'm Learning! 👨‍🎓
 ```
 - Docker/K8's
