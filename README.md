@@ -1,44 +1,44 @@
-Visit my **real** site at [aleksdimitrov.com.](https://aleksdimitrov.com)
+## visit my **real** site at [aleksdimitrov.com](https://aleksdimitrov.com)
 
 ![](media/welcome.gif)
 
 
 
-# I like computers, programming, and mathematics.
+### i like computers, programming, and mathematics.
 
 ![](media/computers.gif)
 
-- Programming in **Golang, Python, Rust, C/CPP**
-- Embedded Systems Development
-- Systems Administration and Engineering
-- Machine Learning
+- programming in **go, python, rust, c/cpp**
+- embedded systems development
+- systems administration and engineering
+- machine learning
 
 
-# PC Build
+### pc build
 
 ![](media/beos.gif)
 
-***Daily***
-- **CPU**: AMD Ryzen 7 9800X3D
-- **CPU Cooler**: Thermalright AXP120-X67
-- **Motherboard**: Asus ROG STRIX B850-I
-- **Memory**: G.Skill Flare X5 32 GB (2x16GB)
-- **GPU**: Founders Edition GeForce RTX 5070 12 GB
-- **PSU**: Corsair SF850
-- **Case**: FormD T1
+##### daily
+- **cpu**: ryzen 7 9800x3d
+- **cpu cooler**: thermalright axp120-x67
+- **motherboard**: asus rog strix b850-i
+- **memory**: g.skill flare x5 32 gb 
+- **gpu**: fe rtx 5070
+- **psu**: corsair sf850
+- **case**: formd T1
 
-***Homelab***
-- **CPU**: AMD Ryzen 9 3900X
-- **CPU Cooler**: Noctua NH-D15 G2
-- **Motherboard**: Asus PRIME B550M-A WIFI II
-- **Memory**: Corsair Vengeance RGB Pro 32 GB (2x16GB)
-- **GPU**: EVGA GeForce RTX 3080 Ti 12 GB
-- **PSU**: Corsair SF1000
-- **Case**: NCase M3 Round
+##### homelab
+- **cpu**: ryzen 9 3900x
+- **cpu cooler**: noctua nh-d15 g2
+- **motherboard**: asus prime b550m-a
+- **memory**: corsair vengeance 32 gb
+- **gpu**: evga rtx 3080 ti
+- **psu**: rorsair sf1000
+- **case**: ncase m3 round
 
-### LinkedIn
+### linkedIn (lets be friends)
 
-[LinkedIn/aleks-t-dimitrov](https://www.linkedin.com/in/aleks-t-dimitrov/)
+[linkedIn/aleks-t-dimitrov](https://www.linkedin.com/in/aleks-t-dimitrov/)
 
 
 
