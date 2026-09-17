@@ -1,4 +1,4 @@
-Visit my real site at (aleksdimitrov.com)[https://aleksdimitrov.com]
+Visit my real site at [aleksdimitrov.com.](https://aleksdimitrov.com)
 
 ![](welcome.gif)
 
@@ -34,11 +34,11 @@ Visit my real site at (aleksdimitrov.com)[https://aleksdimitrov.com]
 - Memory: Corsair Vengeance RGB Pro 32 GB (2x16GB)
 - GPU: EVGA GeForce RTX 3080 Ti 12 GB
 - PSU: Corsair SF1000
-- Case: Ncase M3 Round
+- Case: NCase M3 Round
 
 ### LinkedIn
 
-(LinkedIn)[https://www.linkedin.com/in/aleks-t-dimitrov/]
+[LinkedIn/aleks-t-dimitrov](https://www.linkedin.com/in/aleks-t-dimitrov/)
 
 
 
