@@ -1,10 +1,10 @@
-# visit my **real** site at [aleksdimitrov.com](https://aleksdimitrov.com)
+### visit my **real** site at [aleksdimitrov.com](https://aleksdimitrov.com)
 
 ![](media/welcome.gif)
 
 
 
-# i like computers, programming, and mathematics.
+### i like computers, programming, and mathematics.
 
 ![](media/computers.gif)
 
@@ -12,13 +12,14 @@
 - embedded systems development
 - systems administration and engineering
 - machine learning
+- tinkering with hardware
 
 
 # pc build
 
 ![](media/beos.gif)
 
-## daily
+### daily
 - **cpu**: ryzen 7 9800x3d
 - **cpu cooler**: thermalright axp120-x67
 - **motherboard**: asus rog strix b850-i
@@ -27,7 +28,7 @@
 - **psu**: corsair sf850
 - **case**: formd T1
 
-## homelab
+### homelab
 - **cpu**: ryzen 9 3900x
 - **cpu cooler**: noctua nh-d15 g2
 - **motherboard**: asus prime b550m-a
